@@ -33,7 +33,7 @@ make run
 
 ## History
 
-This code was written around the year 2000. I've made no changes apart from porting it to Java 11, fixing linter warnings, and converting the html documentation to markdown. Please consider that this is >20-year old code (forEach, Eclipse, git, etc. did not exist back then), and I am aware that things would be done differently today.
+This code was written around the year 2000. I've made no changes apart from turning the Applet into JFrame (applets are dead...), porting it to Java 11, fixing linter warnings, and converting the html documentation to markdown. Please consider that this is >20-year old code (forEach, Eclipse, git, etc. did not exist back then), and I am aware that things would be done differently today.
 
 ## Manual
 
