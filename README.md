@@ -13,7 +13,9 @@ nice links to some of the fractals this application can generate.
 
 ## Installation
 
-Requires Java SE 11.
+To run the application, you'll need to install Java (version 11), download the [jar file](https://github.com/stulp/linefractal/releases/download/v1.0.0/FractalApplication.jar), and run it (on Linux with `java -jar FractalApplication.jar`, on Windows/Mac by clicking on things).
+
+To compile the code yourself, clone the repo and do:
 
 ```
 cd src
