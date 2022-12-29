@@ -57,7 +57,7 @@ public class FractalApplication extends JFrame {
   public static void main(String[] args) {
     FractalApplication frame = new FractalApplication();
 		frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-    frame.setPreferredSize(new Dimension(1200, 600));
+    frame.setPreferredSize(new Dimension(1200, 1000));
     frame.pack();
     frame.setVisible(true);		
 	}
