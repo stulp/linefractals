@@ -1,5 +1,9 @@
 # Line Fractal Application
 
+Java application for drawing line fractals. Allows one to set the motif, base shape, and recursion depth.
+
+![](line_fractal_application.png)
+
 For more information on fractals, please see
 [Wikipedia](http://en.wikipedia.org/wiki/Fractal) or
 [Mathworld](http://mathworld.wolfram.com/Fractal.html). Mathworld's
